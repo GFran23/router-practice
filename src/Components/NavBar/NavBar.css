@@ -1,0 +1,12 @@
+.navigation{
+    position: sticky;
+    top: 0px;
+    z-index: 10;
+    background-color:  #ff6781 !important;
+  }
+  #nav-dropdown:hover{
+      color: black;
+  }
+  #firstName:hover{
+    color: black;
+}
